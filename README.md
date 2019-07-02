@@ -19,3 +19,4 @@
 [Two Sum]: https://leetcode.com/problems/two-sum/
 [Palindrome Number]: https://leetcode.com/problems/palindrome-number/
 [Single Number]: https://leetcode.com/problems/single-number/
+[Contains Duplicate]: https://leetcode.com/problems/contains-duplicate/
