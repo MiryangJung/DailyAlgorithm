@@ -15,6 +15,7 @@
 | 136 | [Single Number] | [Javascript](./LeetCode/136.SingleNumber.js) | Easy | 19/07/02 |
 | 217 | [Contains Duplicate] | [Javascript](./LeetCode/217.ContainsDuplicate.js) | Easy | 19/07/02 |
 | 344 | [Reverse String] | [Javascript](./LeetCode/344.ReverseString.js) | Easy | 19/07/03 |
+| 905 | [Sort Array By Parity] | [Javascript](./LeetCode/905.SortArrayByParity.js) | Easy | 19/07/04 |
 
 <!-- Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
@@ -22,3 +23,4 @@
 [Single Number]: https://leetcode.com/problems/single-number/
 [Contains Duplicate]: https://leetcode.com/problems/contains-duplicate/
 [Reverse String]:https://leetcode.com/problems/reverse-string
+[Sort Array By Parity]: https://leetcode.com/problems/sort-array-by-parity/
