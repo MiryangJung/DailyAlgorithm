@@ -19,6 +19,7 @@
 | 344 | [Reverse String] | [Javascript](./LeetCode/344.ReverseString.js) | Easy | 19/07/03 |
 | 832 | [Flipping an Image] | [Javascript](./LeetCode/832.FlippinganImage.js) | Easy | 19/07/06 |
 | 905 | [Sort Array By Parity] | [Javascript](./LeetCode/905.SortArrayByParity.js) | Easy | 19/07/04 |
+| 1046 | [Last Stone Weight] | [Javascript](./LeetCode/1046.LastStoneWeight.js) | Easy | 19/07/09 |
 | 1108 | [Defanging an IP Address] | [Javascript](./LeetCode/1108.DefanginganIPAddress.js) | Easy | 19/07/08 |
 
 <!-- Link -->
@@ -32,3 +33,4 @@
 [Flipping an Image]: https://leetcode.com/problems/flipping-an-image/
 [Number of 1 Bits]: https://leetcode.com/problems/number-of-1-bits/
 [Defanging an IP Address]: https://leetcode.com/problems/defanging-an-ip-address/
+[Last Stone Weight]: https://leetcode.com/problems/last-stone-weight/
