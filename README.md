@@ -27,6 +27,7 @@
 | Title | Solution | Difficulty | Date |
 | ----- | -------- | ---------- | ---- |
 | [홀짝 판별] | [Javascript](./GoormLevel/홀짝-판별.js) | 1 | 19/07/10 |
+| [3과 5의 배수] |[Javascript](./GoormLevel/3과-5의-배수.js) / [C](./GoormLevel/3과-5의-배수.c) | 1 | 19/07/11 |
 
 
 <!-- LeetCode Link -->
@@ -44,3 +45,4 @@
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
+[3과 5의 배수]: https://level.goorm.io/exam/43166/3%EA%B3%BC-5%EC%9D%98-%EB%B0%B0%EC%88%98/quiz/1
