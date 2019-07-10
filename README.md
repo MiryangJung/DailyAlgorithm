@@ -22,7 +22,14 @@
 | 1046 | [Last Stone Weight] | [Javascript](./LeetCode/1046.LastStoneWeight.js) | Easy | 19/07/09 |
 | 1108 | [Defanging an IP Address] | [Javascript](./LeetCode/1108.DefanginganIPAddress.js) | Easy | 19/07/08 |
 
-<!-- Link -->
+## GoormLevel
+
+| Title | Solution | Difficulty | Date |
+| ----- | -------- | ---------- | ---- |
+| [홀짝 판별] | [Javascript](./GoormLevel/홀짝-판별.js) | 1 | 19/07/10 |
+
+
+<!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
 [Palindrome Number]: https://leetcode.com/problems/palindrome-number/
 [Single Number]: https://leetcode.com/problems/single-number/
@@ -34,3 +41,6 @@
 [Number of 1 Bits]: https://leetcode.com/problems/number-of-1-bits/
 [Defanging an IP Address]: https://leetcode.com/problems/defanging-an-ip-address/
 [Last Stone Weight]: https://leetcode.com/problems/last-stone-weight/
+
+<!-- GoormLevel Link -->
+[홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
