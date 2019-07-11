@@ -29,6 +29,7 @@
 | [홀짝 판별] | [Javascript](./GoormLevel/홀짝-판별.js) | 1 | 19/07/10 |
 | [3과 5의 배수] |[Javascript](./GoormLevel/3과-5의-배수.js) / [C](./GoormLevel/3과-5의-배수.c) | 1 | 19/07/11 |
 | [3의 배수 게임] | [Javascript](./GoormLevel/3의-배수-게임.js) | 1 | 19/07/11 |
+| [공백 없애기] | [Javascript](./GoormLevel/공백-없애기.js) | 1 | 19/07/12 |
 
 
 <!-- LeetCode Link -->
@@ -48,3 +49,4 @@
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
 [3과 5의 배수]: https://level.goorm.io/exam/43166/3%EA%B3%BC-5%EC%9D%98-%EB%B0%B0%EC%88%98/quiz/1
 [3의 배수 게임]: https://level.goorm.io/exam/43135/3%EC%9D%98-%EB%B0%B0%EC%88%98-%EA%B2%8C%EC%9E%84/quiz/1
+[공백 없애기]: https://level.goorm.io/exam/43259/%EA%B3%B5%EB%B0%B1-%EC%97%86%EC%95%A0%EA%B8%B0/quiz/1
