@@ -31,6 +31,7 @@
 | [3의 배수 게임] | [Javascript](./GoormLevel/3의-배수-게임.js) | 1 | 19/07/11 |
 | [공백 없애기] | [Javascript](./GoormLevel/공백-없애기.js) | 1 | 19/07/12 |
 | [부분문자열] | [Javascript](./GoormLevel/부분문자열.js) | 1 | 19/07/13 |
+| [Min 함수] | [Javascript](./GoormLevel/Min-함수.js) | 1 | 19/07/14 |
 
 
 <!-- LeetCode Link -->
@@ -52,3 +53,4 @@
 [3의 배수 게임]: https://level.goorm.io/exam/43135/3%EC%9D%98-%EB%B0%B0%EC%88%98-%EA%B2%8C%EC%9E%84/quiz/1
 [공백 없애기]: https://level.goorm.io/exam/43259/%EA%B3%B5%EB%B0%B1-%EC%97%86%EC%95%A0%EA%B8%B0/quiz/1
 [부분문자열]: https://level.goorm.io/exam/43257/%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4/quiz/1
+[Min 함수]: https://level.goorm.io/exam/43273/min-%ED%95%A8%EC%88%98/quiz/1
