@@ -33,6 +33,7 @@
 | [부분문자열] | [Javascript](./GoormLevel/부분문자열.js) | 1 | 19/07/13 |
 | [Min 함수] | [Javascript](./GoormLevel/Min-함수.js) | 1 | 19/07/14 |
 | [Leap Year] | [C](./GoormLevel/Leap-year.c) | 1 | 19/07/15 |
+| [16진수] | [Javascript](./GoormLevel/16진수.js) | 1 | 19/07/16 |
 
 
 <!-- LeetCode Link -->
@@ -56,3 +57,4 @@
 [부분문자열]: https://level.goorm.io/exam/43257/%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4/quiz/1
 [Min 함수]: https://level.goorm.io/exam/43273/min-%ED%95%A8%EC%88%98/quiz/1
 [Leap Year]: https://level.goorm.io/exam/43204/%EC%9C%A4%EB%85%84-leap-year/quiz/1
+[16진수]: https://level.goorm.io/exam/43226/16%EC%A7%84%EC%88%98/quiz/1
