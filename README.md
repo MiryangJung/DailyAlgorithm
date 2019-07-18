@@ -62,3 +62,4 @@
 [Min 함수]: https://level.goorm.io/exam/43273/min-%ED%95%A8%EC%88%98/quiz/1
 [Leap Year]: https://level.goorm.io/exam/43204/%EC%9C%A4%EB%85%84-leap-year/quiz/1
 [16진수]: https://level.goorm.io/exam/43226/16%EC%A7%84%EC%88%98/quiz/1
+[Hello Goorm !]: https://level.goorm.io/exam/43267/hello-goorm/quiz/1
