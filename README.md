@@ -36,6 +36,7 @@
 | [Min 함수] | [Javascript](./GoormLevel/Min-함수.js) | 1 | 19/07/14 |
 | [Leap Year] | [C](./GoormLevel/Leap-year.c) | 1 | 19/07/15 |
 | [16진수] | [Javascript](./GoormLevel/16진수.js) | 1 | 19/07/16 |
+| [Hello Goorm !] | [Go](./GoormLevel/hello-goorm.go) | 1 | 19/07/18 |
 
 
 <!-- LeetCode Link -->
