@@ -19,6 +19,7 @@
 | 344 | [Reverse String] | [Javascript](./LeetCode/344.ReverseString.js) | Easy | 19/07/03 |
 | 476 | [Number Complement] | [Javascript](./LeetCode/476.NumberComplement.js) | Easy | 19/07/17 |
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
+| 728 | [Self Dividing Numbers] | [Javascript](./LeetCode/728.SelfDividingNumbers.js) | Easy | 19/07/20 |
 | 832 | [Flipping an Image] | [Javascript](./LeetCode/832.FlippinganImage.js) | Easy | 19/07/06 |
 | 905 | [Sort Array By Parity] | [Javascript](./LeetCode/905.SortArrayByParity.js) | Easy | 19/07/04 |
 | 1046 | [Last Stone Weight] | [Javascript](./LeetCode/1046.LastStoneWeight.js) | Easy | 19/07/09 |
