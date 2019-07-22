@@ -25,6 +25,7 @@
 | 1046 | [Last Stone Weight] | [Javascript](./LeetCode/1046.LastStoneWeight.js) | Easy | 19/07/09 |
 | 1051 | [Height Checker] | [Javascript](./LeetCode/1051.HeightChecker.js) | Easy | 19/07/21 |
 | 1108 | [Defanging an IP Address] | [Javascript](./LeetCode/1108.DefanginganIPAddress.js) | Easy | 19/07/08 |
+| 1128 | [Number of Equivalent Domino Pairs] | [Javascript](./LeetCode/1128.NumberofEquivalentDominoPairs.js) | Easy | 19/07/22 |
 
 
 ## GoormLevel
@@ -58,6 +59,7 @@
 [Robot Return to Origin]: https://leetcode.com/problems/robot-return-to-origin/
 [Self Dividing Numbers]: https://leetcode.com/problems/self-dividing-numbers/
 [Height Checker]: https://leetcode.com/problems/height-checker/
+[Number of Equivalent Domino Pairs]: https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
