@@ -22,6 +22,7 @@
 | 728 | [Self Dividing Numbers] | [Javascript](./LeetCode/728.SelfDividingNumbers.js) | Easy | 19/07/20 |
 | 832 | [Flipping an Image] | [Javascript](./LeetCode/832.FlippinganImage.js) | Easy | 19/07/06 |
 | 905 | [Sort Array By Parity] | [Javascript](./LeetCode/905.SortArrayByParity.js) | Easy | 19/07/04 |
+| 1025 | [Divisor Game] | [Javascript](./LeetCode/1025.DivisorGame.js) | Easy | 19/07/23 |
 | 1046 | [Last Stone Weight] | [Javascript](./LeetCode/1046.LastStoneWeight.js) | Easy | 19/07/09 |
 | 1051 | [Height Checker] | [Javascript](./LeetCode/1051.HeightChecker.js) | Easy | 19/07/21 |
 | 1108 | [Defanging an IP Address] | [Javascript](./LeetCode/1108.DefanginganIPAddress.js) | Easy | 19/07/08 |
@@ -60,6 +61,7 @@
 [Self Dividing Numbers]: https://leetcode.com/problems/self-dividing-numbers/
 [Height Checker]: https://leetcode.com/problems/height-checker/
 [Number of Equivalent Domino Pairs]: https://leetcode.com/problems/number-of-equivalent-domino-pairs/
+[Divisor Game]: https://leetcode.com/problems/divisor-game/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
