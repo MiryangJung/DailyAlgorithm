@@ -17,6 +17,7 @@
 | 191 | [Number of 1 Bits] | [JavaScript](./LeetCode/191.Numberof1Bits.js) | Easy | 19/07/07 |
 | 217 | [Contains Duplicate] | [Javascript](./LeetCode/217.ContainsDuplicate.js) | Easy | 19/07/02 |
 | 344 | [Reverse String] | [Javascript](./LeetCode/344.ReverseString.js) | Easy | 19/07/03 |
+| 383 | [Ransom Note] | [Javascript](./LeetCode/383.RansomNote.js) | Easy | 19/07/24 |
 | 476 | [Number Complement] | [Javascript](./LeetCode/476.NumberComplement.js) | Easy | 19/07/17 |
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
 | 728 | [Self Dividing Numbers] | [Javascript](./LeetCode/728.SelfDividingNumbers.js) | Easy | 19/07/20 |
@@ -62,6 +63,7 @@
 [Height Checker]: https://leetcode.com/problems/height-checker/
 [Number of Equivalent Domino Pairs]: https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 [Divisor Game]: https://leetcode.com/problems/divisor-game/
+[Ransom Note]: https://leetcode.com/problems/ransom-note/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
