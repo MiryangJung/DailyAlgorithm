@@ -19,7 +19,7 @@
 | 344 | [Reverse String] | [Javascript](./LeetCode/344.ReverseString.js) | Easy | 19/07/03 |
 | 383 | [Ransom Note] | [Javascript](./LeetCode/383.RansomNote.js) | Easy | 19/07/24 |
 | 476 | [Number Complement] | [Javascript](./LeetCode/476.NumberComplement.js) | Easy | 19/07/17 |
-| 520 | [Detect Capital] | [Javascript](./LeetCode/520.DetectCapital.js) | Easy | 19/07/24 |
+| 520 | [Detect Capital] | [Javascript](./LeetCode/520.DetectCapital.js) | Easy | 19/07/25 |
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
 | 728 | [Self Dividing Numbers] | [Javascript](./LeetCode/728.SelfDividingNumbers.js) | Easy | 19/07/20 |
 | 832 | [Flipping an Image] | [Javascript](./LeetCode/832.FlippinganImage.js) | Easy | 19/07/06 |
@@ -44,6 +44,7 @@
 | [Leap Year] | [C](./GoormLevel/Leap-year.c) | 1 | 19/07/15 |
 | [16진수] | [Javascript](./GoormLevel/16진수.js) | 1 | 19/07/16 |
 | [Hello Goorm !] | [Go](./GoormLevel/hello-goorm.go) | 1 | 19/07/18 |
+| [단어의 개수 세기] | [Javascript](./GoormLevel/단어의-개수-세기.js) | 1 | 19/07/26 |
 
 
 <!-- LeetCode Link -->
@@ -77,3 +78,4 @@
 [Leap Year]: https://level.goorm.io/exam/43204/%EC%9C%A4%EB%85%84-leap-year/quiz/1
 [16진수]: https://level.goorm.io/exam/43226/16%EC%A7%84%EC%88%98/quiz/1
 [Hello Goorm !]: https://level.goorm.io/exam/43267/hello-goorm/quiz/1
+[단어의 개수 세기]: https://level.goorm.io/exam/47883/%EB%8B%A8%EC%96%B4%EC%9D%98-%EA%B0%9C%EC%88%98-%EC%84%B8%EA%B8%B0/quiz/1
