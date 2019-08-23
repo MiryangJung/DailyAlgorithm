@@ -1,6 +1,8 @@
 # Daily Algorithm
 
-> `Daily Algorithm` 실천 중 2019.07.01~
+> `Daily Algorithm` 실천 중
+>> 2019.07.01~2019.07.21
+>> 2019.08.23~
 
 - You can use template : [DailyAlgorithm-Template](https://github.com/MiryangJung/DailyAlgorithm-Template)
 
