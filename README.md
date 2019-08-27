@@ -25,6 +25,7 @@
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
 | 728 | [Self Dividing Numbers] | [Javascript](./LeetCode/728.SelfDividingNumbers.js) | Easy | 19/07/20 |
 | 832 | [Flipping an Image] | [Javascript](./LeetCode/832.FlippinganImage.js) | Easy | 19/07/06 |
+| 896 | [Monotonic Array] | [Javascript](./LeetCode/896.MonotonicArray.js) | Easy | 19/08/27 |
 | 905 | [Sort Array By Parity] | [Javascript](./LeetCode/905.SortArrayByParity.js) | Easy | 19/07/04 |
 | 1009 | [Complement of Base 10 Integer] | [Javascript](./LeetCode/1009.ComplementofBase10Integer) | Easy | 19/08/23 |
 | 1025 | [Divisor Game] | [Javascript](./LeetCode/1025.DivisorGame.js) | Easy | 19/07/23 |
@@ -73,6 +74,7 @@
 [Detect Capital]: https://leetcode.com/problems/detect-capital/
 [Complement of Base 10 Integer]: https://leetcode.com/problems/complement-of-base-10-integer/
 [Occurrences After Bigram]: https://leetcode.com/problems/occurrences-after-bigram/
+[Monotonic Array]: https://leetcode.com/problems/monotonic-array/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
