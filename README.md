@@ -20,6 +20,7 @@
 | 217 | [Contains Duplicate] | [Javascript](./LeetCode/217.ContainsDuplicate.js) | Easy | 19/07/02 |
 | 344 | [Reverse String] | [Javascript](./LeetCode/344.ReverseString.js) | Easy | 19/07/03 |
 | 383 | [Ransom Note] | [Javascript](./LeetCode/383.RansomNote.js) | Easy | 19/07/24 |
+| 387 | [First Unique Character in a String] | [Javascript](./LeetCode/387.FirstUniqueCharacterinaString.js) | Easy | 19/08/29 |
 | 476 | [Number Complement] | [Javascript](./LeetCode/476.NumberComplement.js) | Easy | 19/07/17 |
 | 520 | [Detect Capital] | [Javascript](./LeetCode/520.DetectCapital.js) | Easy | 19/07/25 |
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
@@ -77,6 +78,7 @@
 [Occurrences After Bigram]: https://leetcode.com/problems/occurrences-after-bigram/
 [Monotonic Array]: https://leetcode.com/problems/monotonic-array/
 [Uncommon Words from Two Sentences]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
+[First Unique Character in a String]: https://leetcode.com/problems/first-unique-character-in-a-string/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
