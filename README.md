@@ -27,6 +27,7 @@
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
 | 724 | [Find Pivot Index] | [Javascript](./LeetCode/724.FindPivotIndex.js) | Easy | 19/09/01 |
 | 728 | [Self Dividing Numbers] | [Javascript](./LeetCode/728.SelfDividingNumbers.js) | Easy | 19/07/20 |
+| 747 | [Largest Number At Least Twice of Others] | [Javascript](./LeetCode/747.LargestNumberAtLeastTwiceofOthers.js) | Easy | 19/09/05 |
 | 766 | [Toeplitz Matrix] | [Javascript](./LeetCode/766.ToeplitzMatrix.js) | Easy | 19/09/04 |
 | 771 | [Jewels and Stones] | [Javascript](./LeetCode/771.JewelsandStones.js) | Easy | 19/09/03 |
 | 832 | [Flipping an Image] | [Javascript](./LeetCode/832.FlippinganImage.js) | Easy | 19/07/06 |
@@ -89,6 +90,7 @@
 [Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
 [Jewels and Stones]: https://leetcode.com/problems/jewels-and-stones/
 [Toeplitz Matrix]: https://leetcode.com/problems/toeplitz-matrix/
+[Largest Number At Least Twice of Others]: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
