@@ -31,6 +31,7 @@
 | 884 | [Uncommon Words from Two Sentences] | [Javascript](./LeetCode/884.UncommonWordsfromTwoSentences.js) | Easy | 19/08/28 |
 | 896 | [Monotonic Array] | [Javascript](./LeetCode/896.MonotonicArray.js) | Easy | 19/08/27 |
 | 905 | [Sort Array By Parity] | [Javascript](./LeetCode/905.SortArrayByParity.js) | Easy | 19/07/04 |
+| 977 | [Squares of a Sorted Array] | [Javascript](./LeetCode/977.SquaresofaSortedArray.js) | Easy | 19/09/02 |
 | 1009 | [Complement of Base 10 Integer] | [Javascript](./LeetCode/1009.ComplementofBase10Integer) | Easy | 19/08/23 |
 | 1025 | [Divisor Game] | [Javascript](./LeetCode/1025.DivisorGame.js) | Easy | 19/07/23 |
 | 1046 | [Last Stone Weight] | [Javascript](./LeetCode/1046.LastStoneWeight.js) | Easy | 19/07/09 |
@@ -83,6 +84,7 @@
 [First Unique Character in a String]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [Fizz Buzz]: https://leetcode.com/problems/fizz-buzz/
 [Find Pivot Index]: https://leetcode.com/problems/find-pivot-index/
+[Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
