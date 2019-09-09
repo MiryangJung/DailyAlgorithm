@@ -27,6 +27,7 @@
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
 | 724 | [Find Pivot Index] | [Javascript](./LeetCode/724.FindPivotIndex.js) | Easy | 19/09/01 |
 | 728 | [Self Dividing Numbers] | [Javascript](./LeetCode/728.SelfDividingNumbers.js) | Easy | 19/07/20 |
+| 771 | [Jewels and Stones] | [Javascript](./LeetCode/771.JewelsandStones.js) | Easy | 19/09/03 |
 | 832 | [Flipping an Image] | [Javascript](./LeetCode/832.FlippinganImage.js) | Easy | 19/07/06 |
 | 884 | [Uncommon Words from Two Sentences] | [Javascript](./LeetCode/884.UncommonWordsfromTwoSentences.js) | Easy | 19/08/28 |
 | 896 | [Monotonic Array] | [Javascript](./LeetCode/896.MonotonicArray.js) | Easy | 19/08/27 |
@@ -85,6 +86,7 @@
 [Fizz Buzz]: https://leetcode.com/problems/fizz-buzz/
 [Find Pivot Index]: https://leetcode.com/problems/find-pivot-index/
 [Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
+[Jewels and Stones]: https://leetcode.com/problems/jewels-and-stones/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
