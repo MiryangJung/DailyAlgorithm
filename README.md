@@ -45,7 +45,7 @@
 | 1078 | [Occurrences After Bigram] | [Javascript](./LeetCode/1078.OccurrencesAfterBigram.js) | Easy | 19/08/26 |
 | 1108 | [Defanging an IP Address] | [Javascript](./LeetCode/1108.DefanginganIPAddress.js) | Easy | 19/07/08 |
 | 1128 | [Number of Equivalent Domino Pairs] | [Javascript](./LeetCode/1128.NumberofEquivalentDominoPairs.js) | Easy | 19/07/22 |
-
+| 1185 | [Day of the Week] | [Javascript](./LeetCode/1185.DayoftheWeek.js) | Easy | 19/09/09 |
 
 ## GoormLevel
 
@@ -97,6 +97,7 @@
 [Power of Four]: https://leetcode.com/problems/power-of-four/
 [Search Insert Position]: https://leetcode.com/problems/search-insert-position/
 [Add Digits]: https://leetcode.com/problems/add-digits/
+[Day of the Week]: https://leetcode.com/problems/day-of-the-week/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
