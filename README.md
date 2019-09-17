@@ -34,6 +34,7 @@
 | 766 | [Toeplitz Matrix] | [Javascript](./LeetCode/766.ToeplitzMatrix.js) | Easy | 19/09/04 |
 | 771 | [Jewels and Stones] | [Javascript](./LeetCode/771.JewelsandStones.js) | Easy | 19/09/03 |
 | 832 | [Flipping an Image] | [Javascript](./LeetCode/832.FlippinganImage.js) | Easy | 19/07/06 |
+| 860 | [Lemonade Change] | [Javascript](./LeetCode/860.LemonadeChange.js) | Easy | 19/09/12 |
 | 884 | [Uncommon Words from Two Sentences] | [Javascript](./LeetCode/884.UncommonWordsfromTwoSentences.js) | Easy | 19/08/28 |
 | 896 | [Monotonic Array] | [Javascript](./LeetCode/896.MonotonicArray.js) | Easy | 19/08/27 |
 | 905 | [Sort Array By Parity] | [Javascript](./LeetCode/905.SortArrayByParity.js) | Easy | 19/07/04 |
@@ -102,6 +103,7 @@
 [Day of the Week]: https://leetcode.com/problems/day-of-the-week/
 [Sort Array By Parity II]: https://leetcode.com/problems/sort-array-by-parity-ii/
 [Reverse Only Letters]: https://leetcode.com/problems/reverse-only-letters/
+[Lemonade Change]: https://leetcode.com/problems/lemonade-change/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
