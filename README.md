@@ -25,6 +25,7 @@
 | 383 | [Ransom Note] | [Javascript](./LeetCode/383.RansomNote.js) | Easy | 19/07/24 |
 | 387 | [First Unique Character in a String] | [Javascript](./LeetCode/387.FirstUniqueCharacterinaString.js) | Easy | 19/08/29 |
 | 412 | [Fizz Buzz] | [Javascript](./LeetCode/412.FizzBuzz.js) | Easy | 19/08/30 |
+| 448 | [Find All Numbers Disappeared in an Array] | [Javascript](./LeetCode/448.FindAllNumbersDisappearedinanArray.js) | Easy | 19/09/14 |
 | 476 | [Number Complement] | [Javascript](./LeetCode/476.NumberComplement.js) | Easy | 19/07/17 |
 | 520 | [Detect Capital] | [Javascript](./LeetCode/520.DetectCapital.js) | Easy | 19/07/25 |
 | 557 | [Reverse Words in a String III] | [Javascript](./LeetCode/557.ReverseWordsinaStringIII.js) | Easy | 19/09/13 |
@@ -106,6 +107,7 @@
 [Reverse Only Letters]: https://leetcode.com/problems/reverse-only-letters/
 [Lemonade Change]: https://leetcode.com/problems/lemonade-change/
 [Reverse Words in a String III]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
+[Find All Numbers Disappeared in an Array]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
