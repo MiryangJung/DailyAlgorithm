@@ -22,6 +22,7 @@
 | 231 | [Power of Two] | [Javascript](./LeetCode/231.PowerofTwo.js) | Easy | 19/09/15 |
 | 242 | [Valid Anagram] | [Javascript](./LeetCode/242.Valid Anagram.js) | Easy | 19/09/16 |
 | 258 | [Add Digits] | [Javascript](./LeetCode/258.AddDigits.js) | Easy | 19/09/07 |
+| 263 | [Ugly Number] | [Go](./LeetCode/263.UglyNumber.go) | Easy | 19/09/17 |
 | 342 | [Power of Four] | [Javascript](./LeetCode/342.PowerofFour.js) | Easy | 19/09/06 |
 | 344 | [Reverse String] | [Javascript](./LeetCode/344.ReverseString.js) | Easy | 19/07/03 |
 | 383 | [Ransom Note] | [Javascript](./LeetCode/383.RansomNote.js) | Easy | 19/07/24 |
