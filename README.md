@@ -20,7 +20,7 @@
 | 191 | [Number of 1 Bits] | [JavaScript](./LeetCode/191.Numberof1Bits.js) | Easy | 19/07/07 |
 | 217 | [Contains Duplicate] | [Javascript](./LeetCode/217.ContainsDuplicate.js) | Easy | 19/07/02 |
 | 231 | [Power of Two] | [Javascript](./LeetCode/231.PowerofTwo.js) | Easy | 19/09/15 |
-| 242 | [Valid Anagram] | [Javascript](./LeetCode/242.Valid Anagram.js) | Easy | 19/09/16 |
+| 242 | [Valid Anagram] | [Javascript](./LeetCode/242.ValidAnagram.js) | Easy | 19/09/16 |
 | 258 | [Add Digits] | [Javascript](./LeetCode/258.AddDigits.js) | Easy | 19/09/07 |
 | 263 | [Ugly Number] | [Go](./LeetCode/263.UglyNumber.go) | Easy | 19/09/17 |
 | 342 | [Power of Four] | [Javascript](./LeetCode/342.PowerofFour.js) | Easy | 19/09/06 |
@@ -113,6 +113,7 @@
 [Find All Numbers Disappeared in an Array]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [Power of Two]: https://leetcode.com/problems/power-of-two/
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
+[Ugly Number]: https://leetcode.com/problems/ugly-number/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
