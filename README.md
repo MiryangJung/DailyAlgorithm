@@ -18,6 +18,7 @@
 | 136 | [Single Number] | [Javascript](./LeetCode/136.SingleNumber.js) | Easy | 19/07/02 |
 | 169 | [Majority Element] | [JavaScript](./LeetCode/169.MajorityElement.js) | Easy | 19/07/05 |
 | 191 | [Number of 1 Bits] | [JavaScript](./LeetCode/191.Numberof1Bits.js) | Easy | 19/07/07 |
+| 202 | [Happy Number] | [Javascript](./LeetCode/202.HappyNumber.js) | Easy | 19/09/18 |
 | 217 | [Contains Duplicate] | [Javascript](./LeetCode/217.ContainsDuplicate.js) | Easy | 19/07/02 |
 | 231 | [Power of Two] | [Javascript](./LeetCode/231.PowerofTwo.js) | Easy | 19/09/15 |
 | 242 | [Valid Anagram] | [Javascript](./LeetCode/242.ValidAnagram.js) | Easy | 19/09/16 |
@@ -114,6 +115,7 @@
 [Power of Two]: https://leetcode.com/problems/power-of-two/
 [Valid Anagram]: https://leetcode.com/problems/valid-anagram/
 [Ugly Number]: https://leetcode.com/problems/ugly-number/
+[Happy Number]: https://leetcode.com/problems/happy-number/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
