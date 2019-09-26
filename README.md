@@ -14,6 +14,7 @@
 |-----| ----- | -------- | ---------- | ---- |
 | 1 | [Two Sum] | [Javascript](./LeetCode/1.TwoSum.js) | Easy | 19/07/01 |
 | 9 | [Palindrome Number] | [Javascript](./LeetCode/9.PalindromeNumber.js) | Easy | 19/07/01 |
+| 14 | [Longest Common Prefix] | [Javascript](./LeetCode/14.LongestCommonPrefix.js) | Easy | 19/09/22 |
 | 28 | [Implement strStr()] | [Javascript](./LeetCode/28.ImplementstrStr().js) | Easy | 19/09/21 |
 | 35 | [Search Insert Position] | [javascript](./LeetCode/35.SearchInsertPosition.js) | Easy | 19/09/08 |
 | 136 | [Single Number] | [Javascript](./LeetCode/136.SingleNumber.js) | Easy | 19/07/02 |
@@ -122,6 +123,7 @@
 [Count Primes]: https://leetcode.com/problems/count-primes/
 [Reverse Bits]: https://leetcode.com/problems/reverse-bits/
 [Implement strStr()]: https://leetcode.com/problems/implement-strstr/
+[Longest Common Prefix]: https://leetcode.com/problems/longest-common-prefix/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
