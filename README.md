@@ -18,6 +18,7 @@
 | 28 | [Implement strStr()] | [Javascript](./LeetCode/28.ImplementstrStr().js) | Easy | 19/09/21 |
 | 35 | [Search Insert Position] | [javascript](./LeetCode/35.SearchInsertPosition.js) | Easy | 19/09/08 |
 | 136 | [Single Number] | [Javascript](./LeetCode/136.SingleNumber.js) | Easy | 19/07/02 |
+| 167 | [Two Sum II - Input array is sorted] | [Javascript](./LeetCode/167.TwoSumII-Inputarrayissorted.js) | Easy | 19/09/24 |
 | 169 | [Majority Element] | [JavaScript](./LeetCode/169.MajorityElement.js) | Easy | 19/07/05 |
 | 172 | [Factorial Trailing Zeroes] | [Javascript](./LeetCode/172.FactorialTrailingZeroes.js) | Easy | 19/09/23 |
 | 190 | [Reverse Bits] | [Javascript](./LeetCode/190.ReverseBits.js) | Easy | 19/09/20 |
@@ -126,6 +127,7 @@
 [Implement strStr()]: https://leetcode.com/problems/implement-strstr/
 [Longest Common Prefix]: https://leetcode.com/problems/longest-common-prefix/
 [Factorial Trailing Zeroes]: https://leetcode.com/problems/factorial-trailing-zeroes/
+[Two Sum II - Input array is sorted]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
