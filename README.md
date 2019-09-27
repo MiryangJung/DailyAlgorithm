@@ -31,6 +31,7 @@
 | 242 | [Valid Anagram] | [Javascript](./LeetCode/242.ValidAnagram.js) | Easy | 19/09/16 |
 | 258 | [Add Digits] | [Javascript](./LeetCode/258.AddDigits.js) | Easy | 19/09/07 |
 | 263 | [Ugly Number] | [Go](./LeetCode/263.UglyNumber.go) | Easy | 19/09/17 |
+| 292 | [Nim Game] | [Javascript](./LeetCode/292.NimGame.js) | Easy | 19/09/26 |
 | 342 | [Power of Four] | [Javascript](./LeetCode/342.PowerofFour.js) | Easy | 19/09/06 |
 | 344 | [Reverse String] | [Javascript](./LeetCode/344.ReverseString.js) | Easy | 19/07/03 |
 | 383 | [Ransom Note] | [Javascript](./LeetCode/383.RansomNote.js) | Easy | 19/07/24 |
@@ -130,6 +131,7 @@
 [Factorial Trailing Zeroes]: https://leetcode.com/problems/factorial-trailing-zeroes/
 [Two Sum II - Input array is sorted]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [Rotate Array]: https://leetcode.com/problems/rotate-array/
+[Nim Game]: https://leetcode.com/problems/nim-game/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
