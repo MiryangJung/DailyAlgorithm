@@ -67,6 +67,7 @@
 | 1185 | [Day of the Week] | [Javascript](./LeetCode/1185.DayoftheWeek.js) | Easy | 19/09/09 |
 | 1189 | [Maximum Number of Balloons] | [Javascript](./LeetCode/1189.MaximumNumberofBalloons.js) | Easy | 19/09/29 |
 | 1200 | [Minimum Absolute Difference] | [Javascript](./LeetCode/1200.MinimumAbsoluteDifference.js) | Easy | 19/09/28 |
+| 1207 | [Unique Number of Occurrences] | [Go](./LeetCode/1207.UniqueNumberofOccurrences.go) | Easy | 19/10/01 |
 
 ## GoormLevel
 
@@ -140,6 +141,7 @@
 [Minimum Absolute Difference]: https://leetcode.com/problems/minimum-absolute-difference/
 [Maximum Number of Balloons]: https://leetcode.com/problems/maximum-number-of-balloons/
 [Duplicate Zeros]: https://leetcode.com/problems/duplicate-zeros/
+[Unique Number of Occurrences]: https://leetcode.com/problems/unique-number-of-occurrences/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
