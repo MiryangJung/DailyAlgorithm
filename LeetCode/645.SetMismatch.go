@@ -1,4 +1,6 @@
 /*
+Runtime: 36 ms
+Memory Usage: 6.1 MB
 */
 
 func findErrorNums(nums []int) []int {
