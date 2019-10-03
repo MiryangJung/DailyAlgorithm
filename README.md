@@ -64,6 +64,7 @@
 | 1078 | [Occurrences After Bigram] | [Javascript](./LeetCode/1078.OccurrencesAfterBigram.js) | Easy | 19/08/26 |
 | 1089 | [Duplicate Zeros] | [Javascript](./LeetCode/1089.DuplicateZeros.js) | Easy | 19/09/30 |
 | 1108 | [Defanging an IP Address] | [Javascript](./LeetCode/1108.DefanginganIPAddress.js) | Easy | 19/07/08 |
+| 1122 | [Relative Sort Array] | [Go](./LeetCode/1122.RelativeSortArray.go) | Easy | 19/10/03 |
 | 1128 | [Number of Equivalent Domino Pairs] | [Javascript](./LeetCode/1128.NumberofEquivalentDominoPairs.js) | Easy | 19/07/22 |
 | 1185 | [Day of the Week] | [Javascript](./LeetCode/1185.DayoftheWeek.js) | Easy | 19/09/09 |
 | 1189 | [Maximum Number of Balloons] | [Javascript](./LeetCode/1189.MaximumNumberofBalloons.js) | Easy | 19/09/29 |
@@ -144,6 +145,7 @@
 [Duplicate Zeros]: https://leetcode.com/problems/duplicate-zeros/
 [Unique Number of Occurrences]: https://leetcode.com/problems/unique-number-of-occurrences/
 [Set Mismatch]: https://leetcode.com/problems/set-mismatch/
+[Relative Sort Array]: https://leetcode.com/problems/relative-sort-array/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
