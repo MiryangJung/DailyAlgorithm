@@ -44,7 +44,7 @@
 | 448 | [Find All Numbers Disappeared in an Array] | [Javascript](./LeetCode/448.FindAllNumbersDisappearedinanArray.js) | Easy | 19/09/14 |
 | 476 | [Number Complement] | [Javascript](./LeetCode/476.NumberComplement.js) | Easy | 19/07/17 |
 | 520 | [Detect Capital] | [Javascript](./LeetCode/520.DetectCapital.js) | Easy | 19/07/25 |
-| 551 | [Student Attendance Record I] | [Javascript](./LeetCode/551.StudentAttendanceRecordI.js) | 19/10/07 |
+| 551 | [Student Attendance Record I] | [Javascript](./LeetCode/551.StudentAttendanceRecordI.js) | Easy | 19/10/07 |
 | 557 | [Reverse Words in a String III] | [Javascript](./LeetCode/557.ReverseWordsinaStringIII.js) | Easy | 19/09/13 |
 | 645 | [Set Mismatch] | [Go](./LeetCode/645.SetMismatch.go) | Easy | 19/10/02 |
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
