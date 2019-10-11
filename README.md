@@ -59,7 +59,8 @@
 | 896 | [Monotonic Array] | [Javascript](./LeetCode/896.MonotonicArray.js) | Easy | 19/08/27 |
 | 905 | [Sort Array By Parity] | [Javascript](./LeetCode/905.SortArrayByParity.js) | Easy | 19/07/04 |
 | 917 | [Reverse Only Letters] | [Javascript](./LeetCode/917.ReverseOnlyLetters.js) | Easy | 19/09/11 |
-| 922 | [Sort Array By Parity II] | [Javascript](./leetCode/922.SortArrayByParityII.js) | Easy | 19/09/10 |
+| 922 | [Sort Array By Parity II] | [Javascript](./LeetCode/922.SortArrayByParityII.js) | Easy | 19/09/10 |
+| 925 | [Long Pressed Name] | [Go](./LeetCode/925.LongPressedName.go) | Easy | 19/10/08 |
 | 977 | [Squares of a Sorted Array] | [Javascript](./LeetCode/977.SquaresofaSortedArray.js) | Easy | 19/09/02 |
 | 1009 | [Complement of Base 10 Integer] | [Javascript](./LeetCode/1009.ComplementofBase10Integer) | Easy | 19/08/23 |
 | 1025 | [Divisor Game] | [Javascript](./LeetCode/1025.DivisorGame.js) | Easy | 19/07/23 |
@@ -154,6 +155,7 @@
 [Length of Last Word]: https://leetcode.com/problems/length-of-last-word/
 [Plus One]: https://leetcode.com/problems/plus-one/
 [Student Attendance Record I]: https://leetcode.com/problems/student-attendance-record-i/
+[Long Pressed Name]: https://leetcode.com/problems/long-pressed-name/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
