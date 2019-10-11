@@ -44,6 +44,7 @@
 | 448 | [Find All Numbers Disappeared in an Array] | [Javascript](./LeetCode/448.FindAllNumbersDisappearedinanArray.js) | Easy | 19/09/14 |
 | 476 | [Number Complement] | [Javascript](./LeetCode/476.NumberComplement.js) | Easy | 19/07/17 |
 | 520 | [Detect Capital] | [Javascript](./LeetCode/520.DetectCapital.js) | Easy | 19/07/25 |
+| 551 | [Student Attendance Record I] | [Javascript](./LeetCode/551.StudentAttendanceRecordI.js) | 19/10/07 |
 | 557 | [Reverse Words in a String III] | [Javascript](./LeetCode/557.ReverseWordsinaStringIII.js) | Easy | 19/09/13 |
 | 645 | [Set Mismatch] | [Go](./LeetCode/645.SetMismatch.go) | Easy | 19/10/02 |
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
@@ -152,6 +153,7 @@
 [Missing Number]: https://leetcode.com/problems/missing-number/
 [Length of Last Word]: https://leetcode.com/problems/length-of-last-word/
 [Plus One]: https://leetcode.com/problems/plus-one/
+[Student Attendance Record I]: https://leetcode.com/problems/student-attendance-record-i/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
