@@ -18,6 +18,7 @@
 | 28 | [Implement strStr()] | [Javascript](./LeetCode/28.ImplementstrStr().js) | Easy | 19/09/21 |
 | 35 | [Search Insert Position] | [javascript](./LeetCode/35.SearchInsertPosition.js) | Easy | 19/09/08 |
 | 58 | [Length of Last Word] | [Javascript](./LeetCode/58.LengthofLastWord.js) | Easy | 19/10/05 |
+| 66 | [Plus One] | [Go](./LeetCode/66.PlusOne.go) | Easy | 19/10/06 |
 | 136 | [Single Number] | [Javascript](./LeetCode/136.SingleNumber.js) | Easy | 19/07/02 |
 | 167 | [Two Sum II - Input array is sorted] | [Javascript](./LeetCode/167.TwoSumII-Inputarrayissorted.js) | Easy | 19/09/24 |
 | 169 | [Majority Element] | [JavaScript](./LeetCode/169.MajorityElement.js) | Easy | 19/07/05 |
@@ -150,6 +151,7 @@
 [Relative Sort Array]: https://leetcode.com/problems/relative-sort-array/
 [Missing Number]: https://leetcode.com/problems/missing-number/
 [Length of Last Word]: https://leetcode.com/problems/length-of-last-word/
+[Plus One]: https://leetcode.com/problems/plus-one/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
