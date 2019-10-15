@@ -63,9 +63,10 @@
 | 922 | [Sort Array By Parity II] | [Javascript](./LeetCode/922.SortArrayByParityII.js) | Easy | 19/09/10 |
 | 925 | [Long Pressed Name] | [Go](./LeetCode/925.LongPressedName.go) | Easy | 19/10/08 |
 | 977 | [Squares of a Sorted Array] | [Javascript](./LeetCode/977.SquaresofaSortedArray.js) | Easy | 19/09/02 |
-| 1009 | [Complement of Base 10 Integer] | [Javascript](./LeetCode/1009.ComplementofBase10Integer) | Easy | 19/08/23 |
+| 1009 | [Complement of Base 10 Integer] | [Javascript](./LeetCode/1009.ComplementofBase10Integer.js) | Easy | 19/08/23 |
 | 1025 | [Divisor Game] | [Javascript](./LeetCode/1025.DivisorGame.js) | Easy | 19/07/23 |
 | 1046 | [Last Stone Weight] | [Javascript](./LeetCode/1046.LastStoneWeight.js) | Easy | 19/07/09 |
+| 1047 | [Remove All Adjacent Duplicates In String] | [Javascript](./LeetCode/1047.RemoveAllAdjacentDuplicatesInString.js) | Easy | 19/10/11 |
 | 1051 | [Height Checker] | [Javascript](./LeetCode/1051.HeightChecker.js) | Easy | 19/07/21 |
 | 1078 | [Occurrences After Bigram] | [Javascript](./LeetCode/1078.OccurrencesAfterBigram.js) | Easy | 19/08/26 |
 | 1089 | [Duplicate Zeros] | [Javascript](./LeetCode/1089.DuplicateZeros.js) | Easy | 19/09/30 |
@@ -160,6 +161,7 @@
 [Long Pressed Name]: https://leetcode.com/problems/long-pressed-name/
 [Split a String in Balanced Strings]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [Array Partition I]: https://leetcode.com/problems/array-partition-i/
+[Remove All Adjacent Duplicates In String]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
