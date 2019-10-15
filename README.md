@@ -37,6 +37,7 @@
 | 292 | [Nim Game] | [Javascript](./LeetCode/292.NimGame.js) | Easy | 19/09/26 |
 | 342 | [Power of Four] | [Javascript](./LeetCode/342.PowerofFour.js) | Easy | 19/09/06 |
 | 344 | [Reverse String] | [Javascript](./LeetCode/344.ReverseString.js) | Easy | 19/07/03 |
+| 349 | [Intersection of Two Arrays] | [Go](./LeetCode/349.IntersectionofTwoArrays.go) | Easy | 19/10/14 |
 | 367 | [Valid Perfect Square] | [Javascript](./LeetCode/367.ValidPerfectSquare.js) | Easy | 19/09/27 |
 | 383 | [Ransom Note] | [Javascript](./LeetCode/383.RansomNote.js) | Easy | 19/07/24 |
 | 387 | [First Unique Character in a String] | [Javascript](./LeetCode/387.FirstUniqueCharacterinaString.js) | Easy | 19/08/29 |
@@ -166,6 +167,7 @@
 [Remove All Adjacent Duplicates In String]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [Reshape the Matrix]: https://leetcode.com/problems/reshape-the-matrix/
 [Max Consecutive Ones]: https://leetcode.com/problems/max-consecutive-ones/
+[Intersection of Two Arrays]: https://leetcode.com/problems/intersection-of-two-arrays/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
