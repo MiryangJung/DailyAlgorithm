@@ -47,6 +47,7 @@
 | 551 | [Student Attendance Record I] | [Javascript](./LeetCode/551.StudentAttendanceRecordI.js) | Easy | 19/10/07 |
 | 557 | [Reverse Words in a String III] | [Javascript](./LeetCode/557.ReverseWordsinaStringIII.js) | Easy | 19/09/13 |
 | 561 | [Array Partition I] | [Javascript](./LeetCode/561.ArrayPartitionI.js) | Easy | 19/10/10 |
+| 566 | [Reshape the Matrix] | [Javascript](./LeetCode/566.ReshapetheMatrix.go) | Easy | 19/10/12 |
 | 645 | [Set Mismatch] | [Go](./LeetCode/645.SetMismatch.go) | Easy | 19/10/02 |
 | 657 | [Robot Return to Origin] | [Javascript](./LeetCode/657.RobotReturntoOrigin.js) | Easy | 19/07/19 |
 | 724 | [Find Pivot Index] | [Javascript](./LeetCode/724.FindPivotIndex.js) | Easy | 19/09/01 |
@@ -162,6 +163,7 @@
 [Split a String in Balanced Strings]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [Array Partition I]: https://leetcode.com/problems/array-partition-i/
 [Remove All Adjacent Duplicates In String]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+[Reshape the Matrix]: https://leetcode.com/problems/reshape-the-matrix/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
