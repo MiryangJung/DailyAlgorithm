@@ -43,6 +43,7 @@
 | 412 | [Fizz Buzz] | [Javascript](./LeetCode/412.FizzBuzz.js) | Easy | 19/08/30 |
 | 448 | [Find All Numbers Disappeared in an Array] | [Javascript](./LeetCode/448.FindAllNumbersDisappearedinanArray.js) | Easy | 19/09/14 |
 | 476 | [Number Complement] | [Javascript](./LeetCode/476.NumberComplement.js) | Easy | 19/07/17 |
+| 485 | [Max Consecutive Ones] | [Go](./LeetCode/485.MaxConsecutiveOnes.go) | Easy | 19/10/13 |
 | 520 | [Detect Capital] | [Javascript](./LeetCode/520.DetectCapital.js) | Easy | 19/07/25 |
 | 551 | [Student Attendance Record I] | [Javascript](./LeetCode/551.StudentAttendanceRecordI.js) | Easy | 19/10/07 |
 | 557 | [Reverse Words in a String III] | [Javascript](./LeetCode/557.ReverseWordsinaStringIII.js) | Easy | 19/09/13 |
@@ -164,6 +165,7 @@
 [Array Partition I]: https://leetcode.com/problems/array-partition-i/
 [Remove All Adjacent Duplicates In String]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [Reshape the Matrix]: https://leetcode.com/problems/reshape-the-matrix/
+[Max Consecutive Ones]: https://leetcode.com/problems/max-consecutive-ones/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
