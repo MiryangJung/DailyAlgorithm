@@ -75,6 +75,7 @@
 | 1189 | [Maximum Number of Balloons] | [Javascript](./LeetCode/1189.MaximumNumberofBalloons.js) | Easy | 19/09/29 |
 | 1200 | [Minimum Absolute Difference] | [Javascript](./LeetCode/1200.MinimumAbsoluteDifference.js) | Easy | 19/09/28 |
 | 1207 | [Unique Number of Occurrences] | [Go](./LeetCode/1207.UniqueNumberofOccurrences.go) | Easy | 19/10/01 |
+| 1221 | [Split a String in Balanced Strings] | [Go](./LeetCode/1221.SplitaStringinBalancedStrings.go) | Easy | 19/10/09 |
 
 ## GoormLevel
 
@@ -156,6 +157,7 @@
 [Plus One]: https://leetcode.com/problems/plus-one/
 [Student Attendance Record I]: https://leetcode.com/problems/student-attendance-record-i/
 [Long Pressed Name]: https://leetcode.com/problems/long-pressed-name/
+[Split a String in Balanced Strings]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
