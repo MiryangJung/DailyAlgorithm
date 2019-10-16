@@ -77,6 +77,7 @@
 | 1108 | [Defanging an IP Address] | [Javascript](./LeetCode/1108.DefanginganIPAddress.js) | Easy | 19/07/08 |
 | 1122 | [Relative Sort Array] | [Go](./LeetCode/1122.RelativeSortArray.go) | Easy | 19/10/03 |
 | 1128 | [Number of Equivalent Domino Pairs] | [Javascript](./LeetCode/1128.NumberofEquivalentDominoPairs.js) | Easy | 19/07/22 |
+| 1160 | [Find Words That Can Be Formed by Characters] | [Go](./LeetCode/1160.FindWordsThatCanBeFormedbyCharacters.go) | Easy | 19/10/16 |
 | 1185 | [Day of the Week] | [Javascript](./LeetCode/1185.DayoftheWeek.js) | Easy | 19/09/09 |
 | 1189 | [Maximum Number of Balloons] | [Javascript](./LeetCode/1189.MaximumNumberofBalloons.js) | Easy | 19/09/29 |
 | 1200 | [Minimum Absolute Difference] | [Javascript](./LeetCode/1200.MinimumAbsoluteDifference.js) | Easy | 19/09/28 |
@@ -170,6 +171,7 @@
 [Max Consecutive Ones]: https://leetcode.com/problems/max-consecutive-ones/
 [Intersection of Two Arrays]: https://leetcode.com/problems/intersection-of-two-arrays/
 [Peak Index in a Mountain Array]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+[Find Words That Can Be Formed by Characters]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
