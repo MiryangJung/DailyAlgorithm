@@ -69,6 +69,7 @@
 | 977 | [Squares of a Sorted Array] | [Javascript](./LeetCode/977.SquaresofaSortedArray.js) | Easy | 19/09/02 |
 | 1009 | [Complement of Base 10 Integer] | [Javascript](./LeetCode/1009.ComplementofBase10Integer.js) | Easy | 19/08/23 |
 | 1025 | [Divisor Game] | [Javascript](./LeetCode/1025.DivisorGame.js) | Easy | 19/07/23 |
+| 1037 | [Valid Boomerang] | [Go](./LeetCode/1037.ValidBoomerang.go) | Easy | 19/10/17 |
 | 1046 | [Last Stone Weight] | [Javascript](./LeetCode/1046.LastStoneWeight.js) | Easy | 19/07/09 |
 | 1047 | [Remove All Adjacent Duplicates In String] | [Javascript](./LeetCode/1047.RemoveAllAdjacentDuplicatesInString.js) | Easy | 19/10/11 |
 | 1051 | [Height Checker] | [Javascript](./LeetCode/1051.HeightChecker.js) | Easy | 19/07/21 |
@@ -172,6 +173,7 @@
 [Intersection of Two Arrays]: https://leetcode.com/problems/intersection-of-two-arrays/
 [Peak Index in a Mountain Array]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [Find Words That Can Be Formed by Characters]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+[Valid Boomerang]: https://leetcode.com/problems/valid-boomerang/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
