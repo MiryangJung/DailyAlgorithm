@@ -1,4 +1,6 @@
 /*
+Runtime: 232 ms
+Memory Usage: 8.3 MB
 */
 
 func addToArrayForm(A []int, K int) []int {
