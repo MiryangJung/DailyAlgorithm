@@ -67,6 +67,7 @@
 | 922 | [Sort Array By Parity II] | [Javascript](./LeetCode/922.SortArrayByParityII.js) | Easy | 19/09/10 |
 | 925 | [Long Pressed Name] | [Go](./LeetCode/925.LongPressedName.go) | Easy | 19/10/08 |
 | 977 | [Squares of a Sorted Array] | [Javascript](./LeetCode/977.SquaresofaSortedArray.js) | Easy | 19/09/02 |
+| 989 | [Add to Array-Form of Integer] | [Go](./LeetCode/989.AddtoArray-FormofInteger.go) | Easy | 19/10/18 |
 | 1009 | [Complement of Base 10 Integer] | [Javascript](./LeetCode/1009.ComplementofBase10Integer.js) | Easy | 19/08/23 |
 | 1025 | [Divisor Game] | [Javascript](./LeetCode/1025.DivisorGame.js) | Easy | 19/07/23 |
 | 1037 | [Valid Boomerang] | [Go](./LeetCode/1037.ValidBoomerang.go) | Easy | 19/10/17 |
@@ -174,6 +175,7 @@
 [Peak Index in a Mountain Array]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [Find Words That Can Be Formed by Characters]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 [Valid Boomerang]: https://leetcode.com/problems/valid-boomerang/
+[Add to Array-Form of Integer]: https://leetcode.com/problems/add-to-array-form-of-integer/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
