@@ -60,6 +60,7 @@
 | 832 | [Flipping an Image] | [Javascript](./LeetCode/832.FlippinganImage.js) | Easy | 19/07/06 |
 | 852 | [Peak Index in a Mountain Array] | [Javascript](./LeetCode/852.PeakIndexinaMountainArray.js) | Easy | 19/10/15 |
 | 860 | [Lemonade Change] | [Javascript](./LeetCode/860.LemonadeChange.js) | Easy | 19/09/12 |
+| 867 | [Transpose Matrix] | [Go](./LeetCode/867.TransposeMatrix.go) | Easy | 19/10/20 |
 | 884 | [Uncommon Words from Two Sentences] | [Javascript](./LeetCode/884.UncommonWordsfromTwoSentences.js) | Easy | 19/08/28 |
 | 896 | [Monotonic Array] | [Javascript](./LeetCode/896.MonotonicArray.js) | Easy | 19/08/27 |
 | 905 | [Sort Array By Parity] | [Javascript](./LeetCode/905.SortArrayByParity.js) | Easy | 19/07/04 |
@@ -179,6 +180,7 @@
 [Add to Array-Form of Integer]: https://leetcode.com/problems/add-to-array-form-of-integer/
 [Check If It Is a Straight Line]: https://leetcode.com/problems/check-if-it-is-a-straight-line/
 [Valid Mountain Array]: https://leetcode.com/problems/valid-mountain-array/
+[Transpose Matrix]: https://leetcode.com/problems/transpose-matrix/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
