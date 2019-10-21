@@ -66,6 +66,7 @@
 | 917 | [Reverse Only Letters] | [Javascript](./LeetCode/917.ReverseOnlyLetters.js) | Easy | 19/09/11 |
 | 922 | [Sort Array By Parity II] | [Javascript](./LeetCode/922.SortArrayByParityII.js) | Easy | 19/09/10 |
 | 925 | [Long Pressed Name] | [Go](./LeetCode/925.LongPressedName.go) | Easy | 19/10/08 |
+| 941 | [Valid Mountain Array] | [Go](./LeetCode/941.ValidMountainArray.go) | Easy | 19/10/19 |
 | 977 | [Squares of a Sorted Array] | [Javascript](./LeetCode/977.SquaresofaSortedArray.js) | Easy | 19/09/02 |
 | 989 | [Add to Array-Form of Integer] | [Go](./LeetCode/989.AddtoArray-FormofInteger.go) | Easy | 19/10/18 |
 | 1009 | [Complement of Base 10 Integer] | [Javascript](./LeetCode/1009.ComplementofBase10Integer.js) | Easy | 19/08/23 |
@@ -176,6 +177,8 @@
 [Find Words That Can Be Formed by Characters]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 [Valid Boomerang]: https://leetcode.com/problems/valid-boomerang/
 [Add to Array-Form of Integer]: https://leetcode.com/problems/add-to-array-form-of-integer/
+[Check If It Is a Straight Line]: https://leetcode.com/problems/check-if-it-is-a-straight-line/
+[Valid Mountain Array]: https://leetcode.com/problems/valid-mountain-array/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
