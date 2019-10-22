@@ -86,6 +86,7 @@
 | 1189 | [Maximum Number of Balloons] | [Javascript](./LeetCode/1189.MaximumNumberofBalloons.js) | Easy | 19/09/29 |
 | 1200 | [Minimum Absolute Difference] | [Javascript](./LeetCode/1200.MinimumAbsoluteDifference.js) | Easy | 19/09/28 |
 | 1207 | [Unique Number of Occurrences] | [Go](./LeetCode/1207.UniqueNumberofOccurrences.go) | Easy | 19/10/01 |
+| 1217 | [Play with Chips] | [Go](./LeetCode/1217.PlaywithChips.go) | Easy | 19/10/22 |
 | 1221 | [Split a String in Balanced Strings] | [Go](./LeetCode/1221.SplitaStringinBalancedStrings.go) | Easy | 19/10/09 |
 | 1232 | [Check If It Is a Straight Line] | [Go](./LeetCode/1232.CheckIfItIsaStraightLine.go) | Easy | 19/10/21 |
 
@@ -183,6 +184,7 @@
 [Valid Mountain Array]: https://leetcode.com/problems/valid-mountain-array/
 [Transpose Matrix]: https://leetcode.com/problems/transpose-matrix/
 [Check If It Is a Straight Line]: https://leetcode.com/problems/check-if-it-is-a-straight-line/
+[Play with Chips]: https://leetcode.com/problems/play-with-chips/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
