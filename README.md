@@ -13,6 +13,7 @@
 | Num | Title | Solution | Difficulty | Date |
 |-----| ----- | -------- | ---------- | ---- |
 | 1 | [Two Sum] | [Javascript](./LeetCode/1.TwoSum.js) | Easy | 19/07/01 |
+| 7 | [Reverse Integer] | [Go](./LeetCode/7.ReverseInteger.go) | Easy | 19/10/23 |
 | 9 | [Palindrome Number] | [Javascript](./LeetCode/9.PalindromeNumber.js) | Easy | 19/07/01 |
 | 14 | [Longest Common Prefix] | [Javascript](./LeetCode/14.LongestCommonPrefix.js) | Easy | 19/09/22 |
 | 28 | [Implement strStr()] | [Javascript](./LeetCode/28.ImplementstrStr().js) | Easy | 19/09/21 |
@@ -185,6 +186,7 @@
 [Transpose Matrix]: https://leetcode.com/problems/transpose-matrix/
 [Check If It Is a Straight Line]: https://leetcode.com/problems/check-if-it-is-a-straight-line/
 [Play with Chips]: https://leetcode.com/problems/play-with-chips/
+[Reverse Integer]: https://leetcode.com/problems/reverse-integer/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
