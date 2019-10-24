@@ -42,6 +42,7 @@
 | 367 | [Valid Perfect Square] | [Javascript](./LeetCode/367.ValidPerfectSquare.js) | Easy | 19/09/27 |
 | 383 | [Ransom Note] | [Javascript](./LeetCode/383.RansomNote.js) | Easy | 19/07/24 |
 | 387 | [First Unique Character in a String] | [Javascript](./LeetCode/387.FirstUniqueCharacterinaString.js) | Easy | 19/08/29 |
+| 392 | [Is Subsequence] | [Go](./LeetCode/392.IsSubsequence.go) | Easy | 19/10/24 |
 | 412 | [Fizz Buzz] | [Javascript](./LeetCode/412.FizzBuzz.js) | Easy | 19/08/30 |
 | 448 | [Find All Numbers Disappeared in an Array] | [Javascript](./LeetCode/448.FindAllNumbersDisappearedinanArray.js) | Easy | 19/09/14 |
 | 476 | [Number Complement] | [Javascript](./LeetCode/476.NumberComplement.js) | Easy | 19/07/17 |
@@ -187,6 +188,7 @@
 [Check If It Is a Straight Line]: https://leetcode.com/problems/check-if-it-is-a-straight-line/
 [Play with Chips]: https://leetcode.com/problems/play-with-chips/
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
+[Is Subsequence]: https://leetcode.com/problems/is-subsequence/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
