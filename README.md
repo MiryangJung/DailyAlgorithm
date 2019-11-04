@@ -20,6 +20,7 @@
 | 35 | [Search Insert Position] | [javascript](./LeetCode/35.SearchInsertPosition.js) | Easy | 19/09/08 |
 | 58 | [Length of Last Word] | [Javascript](./LeetCode/58.LengthofLastWord.js) | Easy | 19/10/05 |
 | 66 | [Plus One] | [Go](./LeetCode/66.PlusOne.go) | Easy | 19/10/06 |
+| 121 | [Best Time to Buy and Sell Stock] | [Go](./LeetCode/121.BestTimetoBuyandSellStock.go) | Easy | 19/10/26 |
 | 136 | [Single Number] | [Javascript](./LeetCode/136.SingleNumber.js) | Easy | 19/07/02 |
 | 167 | [Two Sum II - Input array is sorted] | [Javascript](./LeetCode/167.TwoSumII-Inputarrayissorted.js) | Easy | 19/09/24 |
 | 169 | [Majority Element] | [JavaScript](./LeetCode/169.MajorityElement.js) | Easy | 19/07/05 |
@@ -191,6 +192,7 @@
 [Reverse Integer]: https://leetcode.com/problems/reverse-integer/
 [Is Subsequence]: https://leetcode.com/problems/is-subsequence/
 [Arranging Coins]: https://leetcode.com/problems/arranging-coins/
+[Best Time to Buy and Sell Stock]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 <!-- GoormLevel Link -->
 [홀짝 판별]: http://level.goorm.io/exam/43111/%ED%99%80%EC%A7%9D-%ED%8C%90%EB%B3%84/quiz/1
