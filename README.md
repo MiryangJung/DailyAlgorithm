@@ -119,6 +119,7 @@
 | Warmup | [A Very Big Sum] | [Go](./HackerRank/AVeryBigSum.go) | Easy | 19/10/30 |
 | Warmup | [Diagonal Difference] | [Go](./HackerRank/DiagonalDifference.go) | Easy | 19/10/31 |
 | Warmup | [Plus Minus] | [Go](./HackerRank/PlusMinus.go) | Easy | 19/11/01 |
+| Warmup | [Staircase] | [Go](./HackerRank/Staircase.go) | Easy | 19/11/02 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -126,6 +127,7 @@
 [A Very Big Sum]: https://www.hackerrank.com/challenges/a-very-big-sum/problem
 [Diagonal Difference]: https://www.hackerrank.com/challenges/diagonal-difference/problem
 [Plus Minus]: https://www.hackerrank.com/challenges/plus-minus/problem
+[Staircase]: https://www.hackerrank.com/challenges/staircase/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
