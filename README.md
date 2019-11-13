@@ -118,12 +118,14 @@
 | Warmup | [Compare the Triplets] | [Go](./HackerRank/ComparetheTriplets.go) | Easy | 19/10/29 |
 | Warmup | [A Very Big Sum] | [Go](./HackerRank/AVeryBigSum.go) | Easy | 19/10/30 |
 | Warmup | [Diagonal Difference] | [Go](./HackerRank/DiagonalDifference.go) | Easy | 19/10/31 |
+| Warmup | [Plus Minus] | [Go](./HackerRank/PlusMinus.go) | Easy | 19/11/01 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
 [Compare the Triplets]: https://www.hackerrank.com/challenges/compare-the-triplets/problem
 [A Very Big Sum]: https://www.hackerrank.com/challenges/a-very-big-sum/problem
 [Diagonal Difference]: https://www.hackerrank.com/challenges/diagonal-difference/problem
+[Plus Minus]: https://www.hackerrank.com/challenges/plus-minus/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
