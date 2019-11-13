@@ -121,6 +121,7 @@
 | Warmup | [Plus Minus] | [Go](./HackerRank/PlusMinus.go) | Easy | 19/11/01 |
 | Warmup | [Staircase] | [Go](./HackerRank/Staircase.go) | Easy | 19/11/02 |
 | Warmup | [Mini-Max Sum] | [Go](./HackerRank/Mini-MaxSum.go) | Easy | 19/11/03 |
+| Warmup | [Birthday Cake Candles] | [Go](./HackerRank/BirthdayCakeCandles.go) | Easy | 19/11/04 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -130,6 +131,7 @@
 [Plus Minus]: https://www.hackerrank.com/challenges/plus-minus/problem
 [Staircase]: https://www.hackerrank.com/challenges/staircase/problem
 [Mini-Max Sum]: https://www.hackerrank.com/challenges/mini-max-sum/problem
+[Birthday Cake Candles]: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
