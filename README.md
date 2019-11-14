@@ -122,7 +122,8 @@
 | Warmup | [Staircase] | [Go](./HackerRank/Staircase.go) | Easy | 19/11/02 |
 | Warmup | [Mini-Max Sum] | [Go](./HackerRank/Mini-MaxSum.go) | Easy | 19/11/03 |
 | Warmup | [Birthday Cake Candles] | [Go](./HackerRank/BirthdayCakeCandles.go) | Easy | 19/11/04 |
-| Warmup | [Time Conversion] | [Go](./HackerRank/TimeConversion.js) | Easy | 19/11/05 |
+| Warmup | [Time Conversion] | [Javascript](./HackerRank/TimeConversion.js) | Easy | 19/11/05 |
+| Warmup | [Grading Students] | [Javascript](./HackerRank/GradingStudents.js) | Easy | 19/11/06 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -134,6 +135,7 @@
 [Mini-Max Sum]: https://www.hackerrank.com/challenges/mini-max-sum/problem
 [Birthday Cake Candles]: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 [Time Conversion]: https://www.hackerrank.com/challenges/time-conversion/problem
+[Grading Students]: https://www.hackerrank.com/challenges/grading/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
