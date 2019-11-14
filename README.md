@@ -124,6 +124,7 @@
 | Warmup | [Birthday Cake Candles] | [Go](./HackerRank/BirthdayCakeCandles.go) | Easy | 19/11/04 |
 | Warmup | [Time Conversion] | [Javascript](./HackerRank/TimeConversion.js) | Easy | 19/11/05 |
 | Warmup | [Grading Students] | [Javascript](./HackerRank/GradingStudents.js) | Easy | 19/11/06 |
+| Warmup | [Kangaroo] | [Go](./HackerRank/Kangaroo.go) | Easy | 19/11/07 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -136,6 +137,8 @@
 [Birthday Cake Candles]: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 [Time Conversion]: https://www.hackerrank.com/challenges/time-conversion/problem
 [Grading Students]: https://www.hackerrank.com/challenges/grading/problem
+[Kangaroo]: https://www.hackerrank.com/challenges/kangaroo/problem
+
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
