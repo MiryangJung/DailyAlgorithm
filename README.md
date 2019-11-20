@@ -126,7 +126,7 @@
 | Warmup | [Grading Students] | [Javascript](./HackerRank/GradingStudents.js) | Easy | 19/11/06 |
 | Warmup | [Kangaroo] | [Go](./HackerRank/Kangaroo.go) | Easy | 19/11/07 |
 | Implementation | [Sock Merchant] [Go](./HackerRank/SockMerchant.go) | Easy | 19/11/08 |
-
+| Implementation | [Breaking the Records] | [Go](./HackerRank/BreakingtheRecords.go) | Easy | 19/11/09 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -141,6 +141,7 @@
 [Grading Students]: https://www.hackerrank.com/challenges/grading/problem
 [Kangaroo]: https://www.hackerrank.com/challenges/kangaroo/problem
 [Sock Merchant]: https://www.hackerrank.com/challenges/sock-merchant/problem
+[Breaking the Records]: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
