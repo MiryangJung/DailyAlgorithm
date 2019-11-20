@@ -127,6 +127,7 @@
 | Warmup | [Kangaroo] | [Go](./HackerRank/Kangaroo.go) | Easy | 19/11/07 |
 | Implementation | [Sock Merchant] [Go](./HackerRank/SockMerchant.go) | Easy | 19/11/08 |
 | Implementation | [Breaking the Records] | [Go](./HackerRank/BreakingtheRecords.go) | Easy | 19/11/09 |
+| Implementation | [Migratory Birds] | [Go](./HackerRank/MigratoryBirds.go) | Easy | 19/11/10 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -142,6 +143,7 @@
 [Kangaroo]: https://www.hackerrank.com/challenges/kangaroo/problem
 [Sock Merchant]: https://www.hackerrank.com/challenges/sock-merchant/problem
 [Breaking the Records]: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+[Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
