@@ -125,6 +125,8 @@
 | Warmup | [Time Conversion] | [Javascript](./HackerRank/TimeConversion.js) | Easy | 19/11/05 |
 | Warmup | [Grading Students] | [Javascript](./HackerRank/GradingStudents.js) | Easy | 19/11/06 |
 | Warmup | [Kangaroo] | [Go](./HackerRank/Kangaroo.go) | Easy | 19/11/07 |
+| Implementation | [Sock Merchant] [Go](./HackerRank/SockMerchant.go) | Easy | 19/11/08 |
+
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -138,7 +140,7 @@
 [Time Conversion]: https://www.hackerrank.com/challenges/time-conversion/problem
 [Grading Students]: https://www.hackerrank.com/challenges/grading/problem
 [Kangaroo]: https://www.hackerrank.com/challenges/kangaroo/problem
-
+[Sock Merchant]: https://www.hackerrank.com/challenges/sock-merchant/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
