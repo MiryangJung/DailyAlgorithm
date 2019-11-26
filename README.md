@@ -129,6 +129,7 @@
 | Implementation | [Breaking the Records] | [Go](./HackerRank/BreakingtheRecords.go) | Easy | 19/11/09 |
 | Implementation | [Migratory Birds] | [Go](./HackerRank/MigratoryBirds.go) | Easy | 19/11/10 |
 | Implementation | [Birthday Chocolate] | [Go](./HackerRank/BirthdayChocolate.go) | Easy | 19/11/11 |
+| Implementation | [Apple and Orange] | [Go](./HackerRank/AppleandOrange.go) | Easy | 19/11/12 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -146,6 +147,7 @@
 [Breaking the Records]: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 [Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
 [Birthday Chocolate]: https://www.hackerrank.com/challenges/the-birthday-bar/problem
+[Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
