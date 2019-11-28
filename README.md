@@ -133,6 +133,7 @@
 | Implementation | [Counting Valleys] | [Go](./HackerRank/CountingValleys.go) | Easy | 19/11/13 |
 | 30 Days of Code | [Day 1: Data Types] | [Go](./HackerRank/Day1-DataTypes.go) | Easy | 19/11/14 |
 | 30 Days of Code | [Day 2: Operators] | [Go](./HackerRank/Day2-Operators.go) | Easy | 19/11/15 |
+| 30 Days of Code | [Day 3: Intro to Conditional Statements] | [Go](./HackerRank/Day3-IntrotoConditionalStatements.go) | Easy | 19/11/16 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -156,6 +157,7 @@
 <!-- HackerRank 30 Days of Code -->
 [Day 1: Data Types]: https://www.hackerrank.com/challenges/30-data-types/problem
 [Day 2: Operators]: https://www.hackerrank.com/challenges/30-operators/problem
+[Day 3: Intro to Conditional Statements]: https://www.hackerrank.com/challenges/30-conditional-statements/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
