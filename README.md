@@ -125,11 +125,12 @@
 | Warmup | [Time Conversion] | [Javascript](./HackerRank/TimeConversion.js) | Easy | 19/11/05 |
 | Warmup | [Grading Students] | [Javascript](./HackerRank/GradingStudents.js) | Easy | 19/11/06 |
 | Warmup | [Kangaroo] | [Go](./HackerRank/Kangaroo.go) | Easy | 19/11/07 |
-| Implementation | [Sock Merchant] [Go](./HackerRank/SockMerchant.go) | Easy | 19/11/08 |
+| Implementation | [Sock Merchant] | [Go](./HackerRank/SockMerchant.go) | Easy | 19/11/08 |
 | Implementation | [Breaking the Records] | [Go](./HackerRank/BreakingtheRecords.go) | Easy | 19/11/09 |
 | Implementation | [Migratory Birds] | [Go](./HackerRank/MigratoryBirds.go) | Easy | 19/11/10 |
 | Implementation | [Birthday Chocolate] | [Go](./HackerRank/BirthdayChocolate.go) | Easy | 19/11/11 |
 | Implementation | [Apple and Orange] | [Go](./HackerRank/AppleandOrange.go) | Easy | 19/11/12 |
+| Implementation | [Counting Valleys] | [Go](,.HackerRank/CountingValleys.go) | Easy | 19/11/13 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -148,6 +149,7 @@
 [Migratory Birds]: https://www.hackerrank.com/challenges/migratory-birds/problem
 [Birthday Chocolate]: https://www.hackerrank.com/challenges/the-birthday-bar/problem
 [Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
+[Counting Valleys]: https://www.hackerrank.com/challenges/counting-valleys/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
