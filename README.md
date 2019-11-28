@@ -130,7 +130,8 @@
 | Implementation | [Migratory Birds] | [Go](./HackerRank/MigratoryBirds.go) | Easy | 19/11/10 |
 | Implementation | [Birthday Chocolate] | [Go](./HackerRank/BirthdayChocolate.go) | Easy | 19/11/11 |
 | Implementation | [Apple and Orange] | [Go](./HackerRank/AppleandOrange.go) | Easy | 19/11/12 |
-| Implementation | [Counting Valleys] | [Go](,.HackerRank/CountingValleys.go) | Easy | 19/11/13 |
+| Implementation | [Counting Valleys] | [Go](./HackerRank/CountingValleys.go) | Easy | 19/11/13 |
+| 30 Days of Code | [Day 1: Data Types] | [Go](./HackerRank/Day1-DataTypes.go) | Easy | 19/11/14 |
 
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
@@ -150,6 +151,9 @@
 [Birthday Chocolate]: https://www.hackerrank.com/challenges/the-birthday-bar/problem
 [Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
 [Counting Valleys]: https://www.hackerrank.com/challenges/counting-valleys/problem
+
+<!-- HackerRank 30 Days of Code -->
+[Day 1: Data Types]: https://www.hackerrank.com/challenges/30-data-types/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
