@@ -134,7 +134,9 @@
 | 30 Days of Code | [Day 1: Data Types] | [Go](./HackerRank/Day1-DataTypes.go) | Easy | 19/11/14 |
 | 30 Days of Code | [Day 2: Operators] | [Go](./HackerRank/Day2-Operators.go) | Easy | 19/11/15 |
 | 30 Days of Code | [Day 3: Intro to Conditional Statements] | [Go](./HackerRank/Day3-IntrotoConditionalStatements.go) | Easy | 19/11/16 |
+| 30 Days of Code | [Day 4: Class vs. Instance] | [Go](./HackerRank/Day4-ClassvsInstance.go) | Easy | 19/11/17 |
 
+)
 <!-- HackerRank Link -->
 [Simple Array Sum]: https://www.hackerrank.com/challenges/simple-array-sum/problem
 [Compare the Triplets]: https://www.hackerrank.com/challenges/compare-the-triplets/problem
@@ -158,6 +160,8 @@
 [Day 1: Data Types]: https://www.hackerrank.com/challenges/30-data-types/problem
 [Day 2: Operators]: https://www.hackerrank.com/challenges/30-operators/problem
 [Day 3: Intro to Conditional Statements]: https://www.hackerrank.com/challenges/30-conditional-statements/problem
+[Day 4: Class vs. Instance]: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+[Day 5: Loops]: https://www.hackerrank.com/challenges/30-loops/problem
 
 <!-- LeetCode Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
